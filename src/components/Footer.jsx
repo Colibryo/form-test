@@ -3,7 +3,7 @@ import "../styles/footer.css"
 export default function Footer() {
     return (
 
-        <footer><p>Copyright © || Tous droits réservés</p></footer>
+        <footer><h2>Copyright © || Tous droits réservés</h2></footer>
 
     )
 }

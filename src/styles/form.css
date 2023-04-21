@@ -9,7 +9,9 @@ label {
     height: 3rem;
     margin: 1rem 0 0 1rem;
     border-bottom: 0.5rem solid rgb(152, 156, 144);
-    color: green;
+    color: rgb(7, 43, 43);
+    font-size: 1.5rem;
+    font-weight: 800;
 }
 
 input[type="text"],
@@ -23,6 +25,8 @@ input[type="email"] {
     border-radius: 5px;
     background-color: rgba(177, 228, 228, 0.9);
     text-indent: 0.5rem;
+    font-size: 1.4rem;
+    font-weight: 600;
 }
 
 input:active {
@@ -38,12 +42,6 @@ button:hover {
     background-color: rgb(4, 90, 90);
     color: white;
     border: 0.3rem solid rgb(111, 163, 7);
-}
-
-input,
-label {
-    font-size: 1.4rem;
-    font-weight: 600;
 }
 
 button {
